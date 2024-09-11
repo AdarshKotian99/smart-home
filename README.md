@@ -1,6 +1,8 @@
 # Smart-Home is a application where users can buy or rent proprty.
 
+[Live Demo](https://adarshkotian99.github.io/smart-home/)
 
+This application/project consists solely of the frontend, with no backend functionality implemented.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
