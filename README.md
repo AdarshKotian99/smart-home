@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Smart-Home is a application where users can buy or rent proprty.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
