@@ -1,4 +1,4 @@
-# Smart-Home is a application where users can buy or rent property [REACT].
+# Smart-Home is a application where users can buy or rent property [React.js].
 
 [Live Demo](https://adarshkotian99.github.io/smart-home/)
 
