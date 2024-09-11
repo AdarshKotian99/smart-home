@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smart-home/static/css/main.560384f1.css",
+    "main.js": "/smart-home/static/js/main.db82fe32.js",
+    "static/media/banner-bg.png": "/smart-home/static/media/banner-bg.059f0c1f4ad2cb90924f.png",
+    "static/media/carousal-image3.png": "/smart-home/static/media/carousal-image3.903b3cd88029e51b4c25.png",
+    "static/media/carousal-image2.png": "/smart-home/static/media/carousal-image2.2b8db474e54f2905e311.png",
+    "static/media/carousal-image1.png": "/smart-home/static/media/carousal-image1.b71430175a5d75df7af8.png",
+    "static/media/footer-img3.png": "/smart-home/static/media/footer-img3.798200ac90f9e1e13d38.png",
+    "static/media/footer-img1.png": "/smart-home/static/media/footer-img1.caf930c346e2db017773.png",
+    "static/media/footer-img2.png": "/smart-home/static/media/footer-img2.8994786f6e3a7d1ce315.png",
+    "index.html": "/smart-home/index.html",
+    "main.560384f1.css.map": "/smart-home/static/css/main.560384f1.css.map",
+    "main.db82fe32.js.map": "/smart-home/static/js/main.db82fe32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560384f1.css",
+    "static/js/main.db82fe32.js"
+  ]
+}
