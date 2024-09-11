@@ -1,4 +1,4 @@
-# Smart-Home is a application where users can buy or rent proprty.
+# Smart-Home is a application where users can buy or rent property.
 
 [Live Demo](https://adarshkotian99.github.io/smart-home/)
 
